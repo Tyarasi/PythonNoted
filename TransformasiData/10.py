@@ -1,0 +1,1 @@
+print('123'.join(['World','Indonesia']))

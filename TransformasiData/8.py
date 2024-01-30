@@ -1,0 +1,1 @@
+print('World Indonesia'.endswith('World'))

@@ -1,0 +1,1 @@
+print('World'.ljust(20))
