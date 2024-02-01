@@ -1,11 +1,11 @@
-teks = "Dicoding"
+teks = "World"
 Teks = "Indonesia"
 
 print(teks)
 print(Teks)
 
 print('-----------------------------------')
-teks = "Dicoding"
+teks = "World"
 Teks = "Indonesia"
 
 print(teks)
